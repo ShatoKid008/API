@@ -1,2 +1,2 @@
 # API
-Creating an API using Flask module in Python
+Creating an API using Flask framework in Python - from tutorial
